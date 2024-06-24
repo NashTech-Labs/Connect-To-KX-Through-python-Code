@@ -31,5 +31,5 @@ This script connects to a Kx (KDB+) database, runs a sample query, and logs the 
 
 2. **Run the script:**
     ```bash
-    python your_script_name.py
+    python connectKX.py
     ```
